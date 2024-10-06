@@ -161,7 +161,7 @@ cython_debug/
 #.idea/
 
 
-
+.idea
 static
 media
-
+conf/local_settings.py
