@@ -165,6 +165,6 @@ cython_debug/
 static
 media
 conf/local_settings.py
-.gitignore`
+.gitignore
 main.py
 db.sqlite3
